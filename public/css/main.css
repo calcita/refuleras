@@ -1634,15 +1634,15 @@ input[type="radio"] + label:before {
 }
 
 .icon.style1 {
-  color: #00ffcc;
+  color: #8dc797;
 }
 
 .icon.style2 {
-  color: #00f0ff;
+  color: #8dc797;
 }
 
 .icon.style3 {
-  color: #76ddff;
+  color: #8dc797;
 }
 
 /* Image */
@@ -1787,6 +1787,7 @@ ul.actions li,
   display: inline-block;
   padding: 0 1.5em 0 0;
   vertical-align: middle;
+  text-align: left;
 }
 
 ul.actions li:last-child,
@@ -2164,7 +2165,7 @@ input[type="file"] {
 
 .features li:before {
   display: block;
-  color: #00ffcc;
+  color: #8dc797;
   position: absolute;
   left: 1.75em;
   top: 2.75em;
@@ -2383,7 +2384,7 @@ body input[type="password"]:focus,
 body input[type="email"]:focus,
 body select:focus,
 body textarea:focus {
-  box-shadow: 0 0 0 2px #21b2a6;
+  box-shadow: 0 0 0 2px #8dc797;
 }
 
 body .select-wrapper:before {
@@ -2408,7 +2409,7 @@ body input[type="radio"]:checked + label:before {
 
 body input[type="checkbox"]:focus + label:before,
 body input[type="radio"]:focus + label:before {
-  box-shadow: 0 0 0 2px #21b2a6;
+  box-shadow: 0 0 0 2px #8dc797;
 }
 
 body ::-webkit-input-placeholder {
@@ -2534,7 +2535,7 @@ body .spotlight .content strong {
 }
 
 .wrapper.style1 {
-  background-color: #21b2a6;
+  background-color: #8dc797;
   color: #c8ece9;
 }
 
@@ -2587,7 +2588,7 @@ body .spotlight .content strong {
 .wrapper.style1 input[type="email"]:focus,
 .wrapper.style1 select:focus,
 .wrapper.style1 textarea:focus {
-  box-shadow: 0 0 0 2px #21b2a6;
+  box-shadow: 0 0 0 2px #8dc797;
 }
 
 .wrapper.style1 .select-wrapper:before {
@@ -2607,12 +2608,12 @@ body .spotlight .content strong {
 .wrapper.style1 input[type="checkbox"]:checked + label:before,
 .wrapper.style1 input[type="radio"]:checked + label:before {
   background: #ffffff;
-  color: #21b2a6;
+  color: #8dc797;
 }
 
 .wrapper.style1 input[type="checkbox"]:focus + label:before,
 .wrapper.style1 input[type="radio"]:focus + label:before {
-  box-shadow: 0 0 0 2px #21b2a6;
+  box-shadow: 0 0 0 2px #8dc797;
 }
 
 .wrapper.style1 ::-webkit-input-placeholder {
@@ -3123,7 +3124,7 @@ body .spotlight .content strong {
   -ms-transition: -ms-transform 0.5s ease;
   transition: transform 0.5s ease;
   -webkit-overflow-scrolling: touch;
-  background: #21b2a6;
+  background: #8dc797;
   color: #ffffff;
   height: 100%;
   max-width: 80%;
