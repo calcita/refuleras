@@ -1,0 +1,148 @@
+baseURL = "/"
+title = "Refuleras"
+languageCode = "es-es"
+defaultContentLanguage = "es"
+paginate = "2"
+theme = "spectral"
+#googleAnalytics = "G-XXXXXXXXXX"
+
+[params]
+fancyTitle = "Refuleras" # title for frontpage, may include image
+copyright = ""
+description = '<img src="{{ "img/test.svg" | absURL }}" alt=""> Red de Colectivas <br />Futboleras Feministas<br /> '
+startbuttonText = "Cuestionario"
+startbuttonLink = "https://refuleras.limesurvey.net/212382?lang=es"
+body_is_markdown = true
+#custom_css = "foo.css"
+#custom_sass = "bar.scss"
+images = ["/images/banner.jpg"]
+
+[[params.menu.main]]
+url = '/'
+title = "Proyecto"
+
+[[params.menu.main]]
+url = '/post/'
+title = "Posts"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    series = "series"
+
+[params.one]
+enable = true
+title = 'Quiénes somos <br/> R E F U L E R A S'
+body = '''
+Somos una red de mujeres y disidencias del fútbol integrada por:<br/>
+
+
+Guinda! | En la Cancha | Futbolistas de Uruguay | Mujeres periodistas | 
+Bohemias feministas | Hinchas de Danubio en resistencia | Mujeres hinchas de Defensor, e hinchas de Peñarol<br/> '''
+
+
+[params.two]
+enable = true
+
+[[params.two.section]]
+img = "images/refuleras.png"
+img_alt = "Red de Colectivas Futboleras Feministas"
+title = 'Misión'
+body = 'Militamos desde los feminismos por la posibilidad de otro fútbol posible. El objetivo de esta red es trabajar de manera colectiva en pos de la disminución de las desigualdades basadas en género en el fútbol y la erradicación de las violencias basadas en género en dicho ámbito. Nos comprometemos a sostener un espacio de participación de mujeres y disidencias en el fútbol desde dónde tejer, construir fuerza colectiva para ir acompañando año a año distintas luchas.'
+
+[[params.two.section]]
+img = "images/sacude.JPG"
+title = 'Visión'
+body = 'Buscamos visibilizar la brecha de género existente en el fútbol. Apostamos a transformar las inequidades por razones de género en el fútbol: en el acceso -en cantidad y calidad- y en la participación de las mujeres y disidencias en el deporte. Brechas que solo puedan acortarse/desparecer si, conjuntamente con otras acciones, logramos erradicar la discriminación y la violencia explícita y simbólica que vivimos día a día habitando estos espacios que nos pertenecen pero al mismo tiempo no.'
+
+[[params.two.section]]
+img = "images/hito.jpg"
+title = 'Historia<br />dsfdflsñssñ'
+body = 'Surgimos en febrero de 2022 del interés por parte de diversos espacios de militancia futbolera de marchar en bloque el 8M. Marchar para reivindicar a las mujeres y disidencias del fútbol, para decir acá estamos; siempre estuvimos. Esta Red se compone de espacios de práctica de fútbol que buscan brindar entornos cuidados de aprendizaje y entrenamiento para mujeres y disidencias, reivindicando el derecho al goce y el juego por parte de todes; agrupaciones de hinchas que se proponen romper con los mandatos del fútbol hegemónico -el heteromasculinizado- a la vez que revisan sus propias trayectorias en las tribunas y en las canchas y (re)construyen formas de habitar este deporte.'
+
+[[params.two.section]]
+img = "images/exterior.jpg"
+title = 'Sumate!<br />Queremos ser más.'
+body = 'Si sos parte de una organización relacionada al fútbol o te interesa sumarte a nuestra red escribinos a @refulerasuy o mandanos un mail a contacto@refuleras.org'
+
+[params.three]
+enable = true
+title = 'Proyecto sksldks kskkekddk'
+body = '''
+Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
+fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+'''
+
+[[params.three.feature]]
+icon = "fa-paper-plane"
+title = "Objetivo"
+body = "Estamos implementando una encuesta para poder conocer más sobre las mujeres y disidencias que juegan al fútbol en cualquiera de sus niveles y modalidades."
+
+[[params.three.feature]]
+icon = "solid fa-laptop"
+title = "Fútbol"
+body = "Si jugaste al menos una vez al fútbol en la calle, picado, fútbol 5, fútbol sala, fútbol 11, fútbol 7 nos interesa que participes del relevamiento completando el cuestionario."
+
+[[params.three.feature]]
+icon = "solid fa-code"
+title = "Participantes"
+body = "El relevamiento está dirigido a mujeres y disidencias de 14 años o más que vivan en el Área Metropolitana de Uruguay y hayan jugado al fútbol alguna vez en los últimos dos años."
+
+[[params.three.feature]]
+icon = "solid fa-headphones-alt"
+title = "Resultados"
+body = "Una vez concluido el relevamiento vamos a difundir y publicar los resultados y hacerlos llegar a quienes toman decisiones en el ámbito público y privado."
+
+[[params.three.feature]]
+icon = "fa-heart"
+title = "Compartir"
+body = "Si este proyecto te resultó interesante, te agradecemos les pases el link de esta página o nuestro instagram a otras personas que conozcas y creas que les puede interesar."
+
+[[params.three.feature]]
+icon = "fa-flag"
+title = "Nothing important"
+body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+
+[params.cta]
+enable = true
+title = "Compartir"
+body = "Si este proyecto te resultó interesante, te agradecemos les pases el link de esta página o nuestro Instagram a otras personas que conozcas y creas que les puede interesar."
+
+[[params.cta.link]]
+href = "#"
+text = "Cuestionario"
+special = true
+
+[[params.cta.link]]
+href = "#"
+text = "Conocenos"
+special = false
+
+[params.contact]
+enable = true
+title = "Contacto"
+body = "Dejanos un mensaje"
+phone = ""
+address = "Montevideo<br />Uruguay"
+email = "contacto@refuleras.org"
+subject = "Mensaje"
+formspree_form_id = "example_invalid"
+
+[params.social]
+twitter = ""
+mastodon = ""
+github = ""
+facebook = ""
+youtube = ""
+instagram = "refulerasuy"
+dribble = ""
+
+# language specific options
+
+[languages.en]
+weight = 0
+languageName = "English"
+
+[languages.es]
+weight = 10
+languageName = "Español"
