@@ -127,7 +127,7 @@ phone = ""
 address = "Montevideo<br />Uruguay"
 email = "contacto@refuleras.org"
 subject = "Mensaje"
-formspree_form_id = "example_invalid"
+formspree_form_id = "xldelyoz"
 
 [params.social]
 twitter = ""
