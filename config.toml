@@ -45,13 +45,13 @@ Bohemias feministas | Hinchas de Danubio en resistencia | <br/>Mujeres hinchas d
 enable = true
 
 [[params.two.section]]
-img = "images/refuleras_letras.png"
+img = "images/refuleras_letras2.png"
 img_alt = "Red de Colectivas Futboleras Feministas"
 title = 'Misión'
 body = 'Militamos desde los feminismos por la posibilidad de otro fútbol posible. El objetivo de esta red es trabajar de manera colectiva en pos de la disminución de las desigualdades basadas en género en el fútbol y la erradicación de las violencias basadas en género en dicho ámbito. Nos comprometemos a sostener un espacio de participación de mujeres y disidencias en el fútbol desde dónde tejer, construir fuerza colectiva para ir acompañando año a año distintas luchas.'
 
 [[params.two.section]]
-img = "images/refuleras_abrazo.png"
+img = "images/refuleras_abrazo2.png"
 title = 'Visión'
 body = 'Buscamos visibilizar la brecha de género existente en el fútbol. Apostamos a transformar las inequidades por razones de género en el fútbol: en el acceso -en cantidad y calidad- y en la participación de las mujeres y disidencias en el deporte. Brechas que solo puedan acortarse/desparecer si, conjuntamente con otras acciones, logramos erradicar la discriminación y la violencia explícita y simbólica que vivimos día a día habitando estos espacios que nos pertenecen pero al mismo tiempo no.'
 
