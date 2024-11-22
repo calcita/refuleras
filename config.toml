@@ -81,7 +81,7 @@ body = "A través de esta iniciativa buscamos el fortalecimiento de las colectiv
 [[params.three.feature]]
 icon = "solid fa-futbol"
 title = "Fútbol"
-body = "Nos interesa relevar a quiénes practican fútbol en sus distintas modalidades -calle, picado, fútbol 5, fútbol sala, fútbol 11, fútbol 7, fútbol playa- y niveles -federado, no federado y comunitario. "
+body = "Nos interesa relevar información de quiénes practican fútbol en sus distintas modalidades -calle, picado, fútbol 5, fútbol sala, fútbol 11, fútbol 7, fútbol playa- y niveles -federado, no federado y comunitario. "
 
 [[params.three.feature]]
 icon = "solid fa-comment"
@@ -96,7 +96,7 @@ body = "El objetivo del cuestionario es relevar información sobre los espacios 
 [[params.three.feature]]
 icon = "solid fa-bar-chart"
 title = "Resultados"
-body = "Una vez concluido el relevamiento, a mediados de 2025- vamos a difundir y publicar los resultados y hacerlos llegar a quienes toman decisiones en el ámbito público y privado.  Es nuestra aspiración que los resultados puedan ser utilizados como insumo para visibilizar de una manera amigable la situación de las mujeres y disidencias en el fútbol para que podamos cambiar positivamente la realidad."
+body = "Una vez concluido el relevamiento, a mediados de 2025, vamos a difundir y publicar los resultados y hacerlos llegar a quienes toman decisiones en el ámbito público y privado.  Es nuestra aspiración que los resultados puedan ser utilizados como insumo para visibilizar de una manera amigable la situación de las mujeres y disidencias en el fútbol para que podamos cambiar positivamente la realidad."
 
 [[params.three.feature]]
 icon = "fa-heart"
