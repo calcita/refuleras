@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:4321/en/categories/</loc>
+    <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="//localhost:4321/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:4321/en/categories/"
+                href="/en/categories/"
                 />
   </url><url>
-    <loc>//localhost:4321/en/</loc>
+    <loc>/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="//localhost:4321/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:4321/en/"
+                href="/en/"
                 />
   </url><url>
-    <loc>//localhost:4321/en/series/</loc>
+    <loc>/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="//localhost:4321/series/"
+                href="/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:4321/en/series/"
+                href="/en/series/"
                 />
   </url><url>
-    <loc>//localhost:4321/en/tags/</loc>
+    <loc>/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="//localhost:4321/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:4321/en/tags/"
+                href="/en/tags/"
                 />
   </url>
 </urlset>
