@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Salud Mental on Refuleras</title>
-    <link>//localhost:4321/tags/salud-mental/</link>
+    <link>/tags/salud-mental/</link>
     <description>Recent content in Salud Mental on Refuleras</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/tags/salud-mental/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/salud-mental/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Líneas de ayuda</title>
-      <link>//localhost:4321/post/ayuda/</link>
+      <link>/post/ayuda/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/post/ayuda/</guid>
+      <guid>/post/ayuda/</guid>
       <description>&lt;h2 id=&#34;salud-mental&#34;&gt;Salud Mental&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Para que ya no haya #NiSilencioNiTabú, hablemos de salud mental.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Si vos o alguien que conozcas necesita ayuda, existen líneas de apoyo que son gratuitas y atienden las 24 horas.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Línea de &lt;strong&gt;apoyo emocional&lt;/strong&gt;, llamando al &lt;strong&gt;0800 1920&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Línea de &lt;strong&gt;prevención del suicidio&lt;/strong&gt;, llamando al &lt;strong&gt;0800 0767&lt;/strong&gt; o por celular *0767.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Espacio Contás de la Intendencia de Montevideo&lt;/strong&gt;: Es un espacio gratuito dirigido a jóvenes de entre 15 a 20 años que residan en Montevideo. Agenda por correo al &lt;a href=&#34;mailto:contas@imm.gub.uy&#34;&gt;contas@imm.gub.uy&lt;/a&gt; o enviando la palabra &amp;ldquo;Chatear&amp;rdquo; al Whatsapp 099 019 500 y seleccionando la opción &amp;ldquo;Contás&amp;rdquo;. Por más información visitar: &lt;a href=&#34;https://montevideo.gub.uy/espacio-contas&#34;&gt;https://montevideo.gub.uy/espacio-contas&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Próximamente 7 &lt;strong&gt;Centros Ni Silencio Ni Tabú&lt;/strong&gt;: Los Centros de promoción y atención del programa Ni Silencio Ni Tabú - impulsado por el Ministerio de Desarrollo Social, a través de INJU junto a UNICEF y con el apoyo del Ministerio de Salud Pública - comenzarán a funcionar en el segundo semestre de 2024 en Montevideo, Cerro Largo, Rocha (en funcionamiento), Florida, Río Negro y Canelones.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Conocé, compartí, informate más en:&#xA;&lt;a href=&#34;https://www.gub.uy/salud-mental-adolescente/programa/centros-de-promocion-del-bienestar-psicoemocional-de-adolescentes&#34;&gt;https://www.gub.uy/salud-mental-adolescente/programa/centros-de-promocion-del-bienestar-psicoemocional-de-adolescentes&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

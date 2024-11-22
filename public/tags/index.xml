@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Refuleras</title>
-    <link>//localhost:4321/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Refuleras</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Consumo</title>
-      <link>//localhost:4321/tags/consumo/</link>
+      <link>/tags/consumo/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/tags/consumo/</guid>
+      <guid>/tags/consumo/</guid>
       <description></description>
     </item>
     <item>
       <title>Salud Mental</title>
-      <link>//localhost:4321/tags/salud-mental/</link>
+      <link>/tags/salud-mental/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/tags/salud-mental/</guid>
+      <guid>/tags/salud-mental/</guid>
       <description></description>
     </item>
     <item>
       <title>Violencia</title>
-      <link>//localhost:4321/tags/violencia/</link>
+      <link>/tags/violencia/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/tags/violencia/</guid>
+      <guid>/tags/violencia/</guid>
       <description></description>
     </item>
   </channel>
