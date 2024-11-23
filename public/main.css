@@ -1634,7 +1634,7 @@ input[type="radio"] + label:before {
 }
 
 .icon.style1 {
-  color: #00ffcc;
+  color: #8dc797;
 }
 
 .icon.style2 {
@@ -2164,7 +2164,7 @@ input[type="file"] {
 
 .features li:before {
   display: block;
-  color: #00ffcc;
+  color: #8dc797;
   position: absolute;
   left: 1.75em;
   top: 2.75em;
